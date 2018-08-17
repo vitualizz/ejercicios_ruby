@@ -1,4 +1,4 @@
-puts "Ingrese algun caracter"
+puts "Ingrese algun caracter para hacer el cuadrado"
 c = gets.chomp
 puts "Ingrese la altura del cuadrado"
 n = gets.chomp.to_i.abs
