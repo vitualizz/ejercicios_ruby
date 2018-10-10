@@ -1,6 +1,6 @@
 puts "Ingrese algun digito o caracter"
 c = gets.chomp
-puts "Ingrese la altura del cuadrado"
+puts "Altura del cuadrado"
 n = gets.chomp.to_i.abs
 puts "Ingrese el ancho del cuadrado"
 a = gets.chomp.to_i.abs
